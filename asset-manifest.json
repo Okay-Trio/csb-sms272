@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://okay-trio.github.io/csb-sms272/static/css/main.894914c8.chunk.css",
-    "main.js": "https://okay-trio.github.io/csb-sms272/static/js/main.c789c0bb.chunk.js",
-    "main.js.map": "https://okay-trio.github.io/csb-sms272/static/js/main.c789c0bb.chunk.js.map",
+    "main.js": "https://okay-trio.github.io/csb-sms272/static/js/main.89b991e7.chunk.js",
+    "main.js.map": "https://okay-trio.github.io/csb-sms272/static/js/main.89b991e7.chunk.js.map",
     "runtime-main.js": "https://okay-trio.github.io/csb-sms272/static/js/runtime-main.2b5600cf.js",
     "runtime-main.js.map": "https://okay-trio.github.io/csb-sms272/static/js/runtime-main.2b5600cf.js.map",
-    "static/js/2.ca98359f.chunk.js": "https://okay-trio.github.io/csb-sms272/static/js/2.ca98359f.chunk.js",
-    "static/js/2.ca98359f.chunk.js.map": "https://okay-trio.github.io/csb-sms272/static/js/2.ca98359f.chunk.js.map",
+    "static/js/2.2d29788d.chunk.js": "https://okay-trio.github.io/csb-sms272/static/js/2.2d29788d.chunk.js",
+    "static/js/2.2d29788d.chunk.js.map": "https://okay-trio.github.io/csb-sms272/static/js/2.2d29788d.chunk.js.map",
     "index.html": "https://okay-trio.github.io/csb-sms272/index.html",
     "static/css/main.894914c8.chunk.css.map": "https://okay-trio.github.io/csb-sms272/static/css/main.894914c8.chunk.css.map",
-    "static/js/2.ca98359f.chunk.js.LICENSE.txt": "https://okay-trio.github.io/csb-sms272/static/js/2.ca98359f.chunk.js.LICENSE.txt"
+    "static/js/2.2d29788d.chunk.js.LICENSE.txt": "https://okay-trio.github.io/csb-sms272/static/js/2.2d29788d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2b5600cf.js",
-    "static/js/2.ca98359f.chunk.js",
+    "static/js/2.2d29788d.chunk.js",
     "static/css/main.894914c8.chunk.css",
-    "static/js/main.c789c0bb.chunk.js"
+    "static/js/main.89b991e7.chunk.js"
   ]
 }
